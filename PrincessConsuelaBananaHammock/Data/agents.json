@@ -1,0 +1,58 @@
+[
+  {
+    "_Id": 101,
+    "Name": "John Doe",
+    "Address": "123 Main Street #200",
+    "City": "Seattle",
+    "State": "WA",
+    "ZipCode": "98101",
+    "Tier": 2,
+    "Phone": {
+      "Primary": "206-221-2345",
+      "Mobile": "206-555-3211"
+    },
+    "Customers": null
+  },
+  {
+    "_Id": 321,
+    "Name": "Abe Simpson",
+    "Address": "2445 Onion Belt Ave",
+    "City": "Springfield",
+    "State": "IL",
+    "ZipCode": "62701",
+    "Tier": 1,
+    "Phone": {
+      "Primary": "217-345-2345",
+      "Mobile": "217-987-3211"
+    },
+    "Customers": null
+  },
+  {
+    "_Id": 467,
+    "Name": "Joseph Schmoe",
+    "Address": "2765 There Street",
+    "City": "Charlotte",
+    "State": "NC",
+    "ZipCode": "28205",
+    "Tier": 3,
+    "Phone": {
+      "Primary": "828-865-2345",
+      "Mobile": "828-432-3211"
+    },
+    "Customers": null
+  },
+  {
+    "_Id": 1987,
+    "Name": "Bob Loblaw",
+    "Address": "123 Main Street #200",
+    "City": "Laguna Beach",
+    "State": "CA",
+    "ZipCode": "92677",
+    "Tier": 2,
+    "Phone": {
+      "Primary": "714-765-2349",
+      "Mobile": "714-496-3288"
+    },
+    "Customers": null
+  }
+]
